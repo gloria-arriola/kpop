@@ -1,0 +1,23 @@
+.title {
+    background:pink;
+    font-size: 50px;
+}
+.fabulous{
+    background: purple;
+    color: yellow;
+    font-size: 25px; 
+    width:200px;
+    text-align: center;
+    border:20px solid red;
+}  
+.content{
+    display:flex;
+    justify-content:center;
+}
+img{
+ width:33%;
+ height:400px;
+}
+.pictures{
+    display:flex;
+}
